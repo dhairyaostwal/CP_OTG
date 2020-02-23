@@ -1,2 +1,4 @@
 # Competitive-Programming
-Sharing all resources for CP here
+Sharing all resources for CP here 😎
+
+Open for contributors 😄
