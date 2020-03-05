@@ -1,7 +1,7 @@
 # Competitive-Programming
 Sharing all resources for CP here 😎
 ## What is it about?
-Questions from - 
+Questions from - : 
 -> HackerRank
 -> CodeChef
 -> CodeForces
